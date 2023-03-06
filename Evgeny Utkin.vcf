@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.1.1//EN
+N:Utkin;Evgeny;;;
+FN:Evgeny Utkin
+ORG:RedStone IT Cybersecurity;
+EMAIL;type=INTERNET;type=HOME;type=pref:u@redstone.id
+TEL;type=CELL;type=VOICE;type=pref:+7 (916) 426-50-65
+END:VCARD
