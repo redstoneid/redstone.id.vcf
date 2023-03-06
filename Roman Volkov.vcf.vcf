@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.1.1//EN
+N:Volkov;Roman;;;
+FN:Roman Volkov
+ORG:RedStone CEO;
+EMAIL;type=INTERNET;type=HOME;type=pref:rvolkov@redstone.id
+TEL;type=CELL;type=VOICE;type=pref:+62 821 13708350
+END:VCARD
